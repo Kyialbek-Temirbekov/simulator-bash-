@@ -1,0 +1,8 @@
+device:
+    model: pulsor
+    version: 1.0
+    client_id: pulsor-sw
+
+broker:
+    host: localhost
+    port: 1884
