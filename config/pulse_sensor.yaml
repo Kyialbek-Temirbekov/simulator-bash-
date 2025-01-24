@@ -1,10 +1,10 @@
 module:
     name: 'pulse sensor'
-    topic: heartbeat/topic
-    frequency: 3
+    topic: device/+/heart-beat
+    frequency: 5
 
 this:
-    min: 70
-    max: 90
+    min: 80
+    max: 95
     precision: 0
    

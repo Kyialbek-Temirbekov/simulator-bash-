@@ -1,0 +1,10 @@
+module:
+    name: 'air quality sensor'
+    topic: device/+/air-quality
+    frequency: 10
+
+this:
+    min: 0
+    max: 50
+    precision: 0
+   

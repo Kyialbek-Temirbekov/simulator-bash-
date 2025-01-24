@@ -1,0 +1,10 @@
+module:
+    name: 'step count sensor'
+    topic: device/+/step-count
+    frequency: 10
+
+this:
+    min: 0
+    max: 100
+    precision: 0
+   

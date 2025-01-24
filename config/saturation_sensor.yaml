@@ -1,0 +1,10 @@
+module:
+    name: 'saturation sensor'
+    topic: device/+/saturation
+    frequency: 5
+
+this:
+    min: 85
+    max: 89
+    precision: 0
+   

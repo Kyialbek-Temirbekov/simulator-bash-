@@ -1,0 +1,10 @@
+module:
+    name: 'calorie burn sensor'
+    topic: device/+/calorie-burn
+    frequency: 10
+
+this:
+    min: 4
+    max: 8
+    precision: 0
+   

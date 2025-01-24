@@ -1,7 +1,7 @@
 device:
-    model: pulsor
+    model: Chronixx
     version: 1.0
-    client_id: pulsor-sw
+    client_id: 35c51230-e038-482f-925c-24a8b88521bd
 
 broker:
     host: localhost

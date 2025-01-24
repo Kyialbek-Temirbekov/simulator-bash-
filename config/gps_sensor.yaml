@@ -1,0 +1,10 @@
+module:
+    name: 'gps sensor'
+    topic: device/+/gps
+    frequency: 10
+
+this:
+    min: 50
+    max: 70
+    precision: 15
+   
